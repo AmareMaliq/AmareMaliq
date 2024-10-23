@@ -20,9 +20,9 @@
    <a href="https://www.linkedin.com/in/amare-maliq-aradhana-0976652a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-  <a href="https://github.com/amaremaliq" target="_blank">
+<!--  <a href="https://github.com/amaremaliq" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> -->
 </div>
 
  <hr/>
@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mysql,laravel,php,csharp" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,mysql,laravel,php,cs" /><br>
 </div>
 
 <br/>
